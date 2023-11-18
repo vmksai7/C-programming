@@ -17,3 +17,17 @@ main()
     cels=cels+step; //Incrementing celsius with step value
   }
 }
+
+//Same program by using for loop and #define statements
+
+#include<stdio.h>
+
+#define FIRST 0
+#define LAST 300
+#define STEP 20
+
+main()
+{
+  for(int cels=FIRST;cels<=LAST;cels+=STEP)
+    printf("%d\t %f\n",cels,((cels*1.8)+32));
+}
