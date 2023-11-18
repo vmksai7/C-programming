@@ -4,7 +4,7 @@
 declarations of functions like printf, scanf, fopen, fclose, getchar, putchar...*/
   
 #include<stdio.h>
-int main()
+main() //Defines a function call main that receives no argument values statements of main are enclosed in braces main calls library function printf
 {
-  printf("Hello World\n"); //It displays Hello World and then go the new line
+  printf("Hello World\n"); //It printd Hello World and then go the new line
 }
