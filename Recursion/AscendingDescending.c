@@ -2,8 +2,13 @@
 
 #include<stdio.h>
 
+typedef enum{
+  Ascending,
+  Descending
+}order;
+
 //This is a AscDes function which gives you output in the form of Ascending format or Descending format as per the given input
-void AscDes(int num,int input)
+void AscDes(int num,order input)
 {
   //If input is 0 the data will be displayed in Ascending order and checks for if num is greater than 0
   if(input==0 && num>0) 
