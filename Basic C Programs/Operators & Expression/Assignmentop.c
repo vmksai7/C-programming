@@ -15,4 +15,6 @@ int main()
   t/=5; //Similar to t=t/5
   w&=5; //Similar to w=w&5
   printf("After changes: x=%d y=%d z=%d p=%d t=%d w=%d\n",x,y,z,p,t,w);
+  z+=y*=x-=5; //Assignment will do from right to left
+  printf("%d\n",z);
 }
