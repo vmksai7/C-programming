@@ -34,3 +34,11 @@ int main()
   a = b++ + b++ + b++ + b++;
   printf("%d %d\n",a,b); //a=10 b=5
 }
+
+#include<stdio.h>
+int main()
+{
+  int a=1,b=1;
+  a = ++b + ++b + ++b + ++b;
+  printf("%d %d\n",a,b); //a=10 b=5
+}
