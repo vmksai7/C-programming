@@ -1,8 +1,12 @@
-//C program to copy one string to another string using functions
+//C program to copy one string to another string without using strcpy
 
 #include <stdio.h>
 
-void copyString(char source[], char destination[]) {
+int main() {
+    // Example usage
+    char source[] = "Hello, World!";
+    char destination[50]; // Make sure the destination array is large enough
+
     int i = 0;
 
     // Copy characters until the null character is encountered
@@ -13,15 +17,6 @@ void copyString(char source[], char destination[]) {
 
     // Add null character to the end of the destination string
     destination[i] = '\0';
-}
-
-int main() {
-    // Example usage
-    char source[] = "Hello, World!";
-    char destination[50]; // Make sure the destination array is large enough
-
-    // Call the function to copy the string
-    copyString(source, destination);
 
     // Display the copied string
     printf("Original String: %s\n", source);
@@ -29,3 +24,4 @@ int main() {
 
     return 0;
 }
+
