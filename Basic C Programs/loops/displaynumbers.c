@@ -4,7 +4,7 @@
 int main()
 {
   int count;
-  for(count=0;count<=100;count++)
+  for(count=1;count<=100;count++)
     printf("%d ",count);
 }
 
@@ -13,7 +13,7 @@ int main()
 #include<stdio.h>
 int main()
 {
-  int count=0;
+  int count=1;
   while(count<=100)
   {
     printf("%d ",count);
@@ -26,7 +26,7 @@ int main()
 #include<stdio.h>
 int main()
 {
-  int count=0;
+  int count=1;
   do
   {
     printf("%d ",count);
