@@ -1,4 +1,6 @@
-//C program to interchange the adjacent element of an array
+/*******************************************************************************
+C program to interchange the adjacent element of an array
+*******************************************************************************/
 
 #include<stdio.h>
 #define START 0
