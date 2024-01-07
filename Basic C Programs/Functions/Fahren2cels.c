@@ -1,4 +1,7 @@
-//C program to print Fahrenheit temperatures and their centigrade or Celsius equivalents using functions
+/*******************************************************************************
+C program to print Fahrenheit temperatures and their centigrade or Celsius 
+equivalents using functions
+*******************************************************************************/
 
 #include<stdio.h>
 
@@ -15,7 +18,8 @@ main()
   int fahr,cels;
   for(fahr=0;fahr<=300;fahr=fahr+20)
   {
-      cels=fahr2cels(fahr); //Calling fahr2cels function with actual arguments  to calculate celsius value
+      cels=fahr2cels(fahr); //Calling fahr2cels function with actual arguments
+                            //to calculate celsius value
       printf("%d %d\n",fahr,cels);
   }
 }
