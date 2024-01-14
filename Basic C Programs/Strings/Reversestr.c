@@ -1,4 +1,7 @@
-#include<Stdio.h>
+/*******************************************************************************
+C program to reverse a string which is given by the user through keyboard
+*******************************************************************************/
+#include<stdio.h>
 #include<string.h>
 int main()
 {
