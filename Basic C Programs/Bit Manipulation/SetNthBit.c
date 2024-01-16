@@ -1,5 +1,5 @@
 /*******************************************************************************
-C Program to set the Nth bit of the given number by given number of times
+C Program to set the Nth bit of the given number by given number of positions
 *******************************************************************************/
 #include <stdio.h>
 
