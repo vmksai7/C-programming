@@ -1,5 +1,6 @@
-//C program to find the smallest number in an array using pointers
-
+/*******************************************************************************
+C program to find the smallest number in an array using pointers
+*******************************************************************************/
 #include <stdio.h>
 
 int findSmallestElement(int *arr, int size) {
