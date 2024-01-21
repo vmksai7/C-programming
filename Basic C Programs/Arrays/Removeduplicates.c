@@ -1,3 +1,6 @@
+/*******************************************************************************
+C program to remove duplicates from an array by giving inputs from user
+*******************************************************************************/
 #include<stdio.h>
 #define N 10
 int main()
