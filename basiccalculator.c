@@ -1,5 +1,7 @@
-//C program for a simple calculator
-
+/*******************************************************************************
+C program for a simple calculator of Addition, Subtraction, Multiplication and
+Division
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
