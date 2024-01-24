@@ -1,5 +1,6 @@
-//C program to convert Celsius to Fahrenheit table from 0 to 300
-
+/*******************************************************************************
+C program to convert Celsius to Fahrenheit table from 0 to 300
+*******************************************************************************/
 #include<Stdio.h>
 
 main()
