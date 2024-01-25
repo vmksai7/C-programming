@@ -1,5 +1,6 @@
-//C program to count number of lines from a given input
-
+/*******************************************************************************
+C program to count number of lines from a given input
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
