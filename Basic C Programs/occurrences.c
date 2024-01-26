@@ -1,5 +1,6 @@
-//C program to count digits, white spaces and others
-
+/*******************************************************************************
+C program to count digits, white spaces and others
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
