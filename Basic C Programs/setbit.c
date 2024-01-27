@@ -1,4 +1,6 @@
-//C program to set a bit from a user given data
+/*******************************************************************************
+C program to set a bit from a user given data
+*******************************************************************************/
 #include <stdio.h>
 
 // Function to set the nth bit of x to 1
