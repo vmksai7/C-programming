@@ -1,5 +1,6 @@
-//C program to count number of character from a given input
-
+/*******************************************************************************
+C program to count number of character from a given input
+*******************************************************************************/
 //Method 1
 #include<stdio.h>
 int main()
