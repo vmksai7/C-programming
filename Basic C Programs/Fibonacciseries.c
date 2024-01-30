@@ -1,3 +1,6 @@
+/*******************************************************************************
+C Program to print the fibonacci series by entereing the number from user
+*******************************************************************************/
 #include <stdio.h>
 
 int main() {
