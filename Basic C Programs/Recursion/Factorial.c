@@ -1,4 +1,6 @@
-//C program to print the factorial a number
+/*******************************************************************************
+C program to print the factorial a number using Recursion
+*******************************************************************************/
 #include<stdio.h>
 
 //Function to calculate factorial using recursion
