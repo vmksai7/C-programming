@@ -1,6 +1,8 @@
-//C program to find the smallest number of notes that will combine to given Rs. N
-//Sum of Rs. N is entered and having notes of six denominations Rs.1, Rs.2, Rs.5, Rs.10, Rs.50, Rs.100
-
+/*******************************************************************************
+C program to find the smallest number of notes that will combine to given Rs. N
+Sum of Rs. N is entered and having notes of six denominations Rs.1, Rs.2, Rs.5, 
+Rs.10, Rs.50, Rs.100
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
