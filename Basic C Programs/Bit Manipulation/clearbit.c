@@ -1,5 +1,6 @@
-//C program to clear a bit position of a given number
-
+/*******************************************************************************
+C program to clear a bit position of a given number
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
