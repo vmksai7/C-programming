@@ -1,5 +1,6 @@
-//C program to find given number is even or odd using bitwise and operator
-
+/*******************************************************************************
+C program to find given number is even or odd using bitwise and operator
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
