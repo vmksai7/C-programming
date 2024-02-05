@@ -1,5 +1,6 @@
-//C program to check given number is power of 16 or not
-
+/*******************************************************************************
+C program to check given number is power of 16 or not
+*******************************************************************************/
 #include<stdio.h>
 
 int power(int num)
