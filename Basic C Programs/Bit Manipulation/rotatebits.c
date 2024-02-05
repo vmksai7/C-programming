@@ -1,5 +1,7 @@
-//C program to rotate the bits of an integer left or right by a specified number of positions.
-
+/*******************************************************************************
+C program to rotate the bits of an integer left or right by a specified 
+number of positions.
+*******************************************************************************/
 #include<stdio.h>
 
 unsigned int rotatebits(unsigned int num, int position, char direction)
