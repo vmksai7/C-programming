@@ -1,4 +1,7 @@
-//C program to convert upper to lower case and lower to upper case using bitwise xor operator
+/*******************************************************************************
+C program to convert upper to lower case and lower to upper case using bitwise
+xor operator
+*******************************************************************************/
 
 #include<stdio.h>
 
