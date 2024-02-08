@@ -1,5 +1,6 @@
-//C program to toggle ith digit of a given number
-
+/*******************************************************************************
+C program to toggle ith digit of a given number
+*******************************************************************************/
 #include<stdio.h>
 
 int Toggle(int num,int bit)
