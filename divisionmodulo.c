@@ -1,5 +1,6 @@
-//Finding the Last/Unit digit of a 2 digit number
-
+/*******************************************************************************
+Finding the Last/Unit digit of a 2 digit number
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
