@@ -1,5 +1,6 @@
-//C program to reverse the given number
-
+/*******************************************************************************
+C program to reverse the given number
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
