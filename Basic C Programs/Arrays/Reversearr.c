@@ -1,5 +1,6 @@
-//C program to copy 1 array into another in reverse order
-
+/*******************************************************************************
+C program to copy 1 array into another in reverse order
+*******************************************************************************/
 #include<stdio.h>
 #define N 5
 
