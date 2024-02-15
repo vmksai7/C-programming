@@ -1,7 +1,7 @@
 /*******************************************************************************
 C program to enter array size and input elements and shifts left for n no. of 
 bits as per the user
-********************************************************************************
+*******************************************************************************/
 #include <stdio.h>
 
 void leftRotateByOne(int arr[], int size) {
