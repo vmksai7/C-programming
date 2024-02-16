@@ -1,3 +1,7 @@
+/*******************************************************************************
+C program to enter array size and input elements and shifts right for n no. of 
+bits as per the user
+*******************************************************************************/
 #include<stdio.h>
 #define N 5
 
