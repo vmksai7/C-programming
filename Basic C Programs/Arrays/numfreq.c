@@ -1,4 +1,6 @@
-//C program to find a number and its frequency in array
+/*******************************************************************************
+C program to find a number and its frequency in array
+*******************************************************************************/
 #include<stdio.h>
 
 int main()
