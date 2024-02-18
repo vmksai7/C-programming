@@ -1,3 +1,6 @@
+/*******************************************************************************
+C program to find the second largest number by taking input from the user
+*******************************************************************************/
 #include<stdio.h>
 #define N 5
 
