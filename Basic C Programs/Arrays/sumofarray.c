@@ -1,4 +1,6 @@
-//C program to add the digits of an array
+/*******************************************************************************
+C program to add the digits of an array
+*******************************************************************************/
 #include<stdio.h>
 #define N 5
 int main()
