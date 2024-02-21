@@ -1,5 +1,6 @@
-//C program to find the letter position of the alphabet using bitwise operator
-
+/*******************************************************************************
+C program to find the letter position of the alphabet using bitwise operator
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
