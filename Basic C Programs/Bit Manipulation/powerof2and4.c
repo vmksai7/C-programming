@@ -1,5 +1,6 @@
-//C program to check the given number is power of 2 or not
-
+/*******************************************************************************
+C program to check the given number is power of 2 or not
+*******************************************************************************/
 #include<stdio.h>
 
 int main()
