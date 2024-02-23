@@ -1,5 +1,6 @@
-//C program to check if given number is power of 8 or not
-
+/*******************************************************************************
+C program to check if given number is power of 8 or not
+*******************************************************************************/
 #include<stdio.h>
 
 int power(int num)
