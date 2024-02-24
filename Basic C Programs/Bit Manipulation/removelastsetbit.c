@@ -1,5 +1,6 @@
-//C program to remove the last set bit of a given number
-
+/*******************************************************************************
+C program to remove the last set bit of a given number
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
