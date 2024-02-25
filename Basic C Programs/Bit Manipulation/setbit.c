@@ -1,5 +1,6 @@
-//C program to set the ith bit position of a given number
-
+/*******************************************************************************
+C program to set the ith bit position of a given number
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
