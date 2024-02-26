@@ -1,5 +1,6 @@
-//C program to count number of set bits present in a given number
-
+/*******************************************************************************
+C program to count number of set bits present in a given number
+*******************************************************************************/
 #include<stdio.h>
 
 int setbit(int num)
