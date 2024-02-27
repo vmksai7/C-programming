@@ -1,5 +1,6 @@
-//C program to display enter position of given number is set or clear
-
+/*******************************************************************************
+C program to display enter position of given number is set or clear
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
