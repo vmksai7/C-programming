@@ -1,3 +1,6 @@
+/*******************************************************************************
+C program to understand the basic operaters which includes ternary operator
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
