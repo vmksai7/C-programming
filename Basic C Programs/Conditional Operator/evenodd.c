@@ -1,5 +1,6 @@
-//C program to check if given number is even or odd usinf conditional operator
-
+/*******************************************************************************
+C program to check if given number is even or odd usinf conditional operator
+*******************************************************************************/
 #include <stdio.h>
 
 int main() {
