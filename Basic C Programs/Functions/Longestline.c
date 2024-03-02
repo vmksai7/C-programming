@@ -1,5 +1,6 @@
-//C program to find the longest line from the gievn input data
-
+/*******************************************************************************
+C program to find the longest line from the gievn input data
+*******************************************************************************/
 #include<stdio.h>
 #define MAXLINE 1000 //Maximum input line length
 
