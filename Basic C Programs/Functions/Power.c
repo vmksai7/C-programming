@@ -1,5 +1,6 @@
-//C program to calculate power of two numbers if pow(2,3) -> 6
-
+/*******************************************************************************
+C program to calculate power of two numbers if pow(2,3) -> 6
+*******************************************************************************/
 #include<stdio.h>
 
 //Declaration of power function
