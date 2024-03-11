@@ -1,5 +1,6 @@
-//C program to calculate the value of a raised to b using function power(a,b)
-
+/*******************************************************************************
+C program to calculate the value of a raised to b using function power(a,b)
+*******************************************************************************/
 #include<stdio.h>
 float power(float,int);
 int main()
