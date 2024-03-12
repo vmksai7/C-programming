@@ -1,5 +1,6 @@
-//C program to copy one string to another string using functions 
-
+/*******************************************************************************
+C program to copy one string to another string using functions 
+*******************************************************************************/
 #include <stdio.h>
 
 void copyString(char source[], char destination[]) {
