@@ -1,5 +1,6 @@
-//C program to conversion of distance to meters, centimeters, feet and inches
-
+/*******************************************************************************
+C program to conversion of distance to meters, centimeters, feet and inches
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
