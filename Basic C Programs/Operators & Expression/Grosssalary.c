@@ -1,4 +1,6 @@
-//Calculate Employee's Gross salary
+/*******************************************************************************
+C Program to calculate Employee's Gross salary
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
