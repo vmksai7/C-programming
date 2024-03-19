@@ -1,5 +1,6 @@
-//C program to find the aggregate and percentage of a student of 5 subjects marks
-
+/*******************************************************************************
+C program to find the aggregate and percentage of a student of 5 subjects marks
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
