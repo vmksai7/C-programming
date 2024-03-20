@@ -1,5 +1,6 @@
-//C program to find the area of triangle, given its sides
-
+/*******************************************************************************
+C program to find the area of triangle, given its sides
+*******************************************************************************/
 #include<stdio.h>
 #include<math.h> //To use sqrt()
 
