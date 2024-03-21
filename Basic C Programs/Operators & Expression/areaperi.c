@@ -1,5 +1,7 @@
-//C program to calculate are and perimeter of a rectangle and area and circumference of a circle
-
+/*******************************************************************************
+C program to calculate are and perimeter of a rectangle and area and 
+circumference of a circle
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
