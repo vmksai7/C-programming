@@ -1,5 +1,6 @@
-//C program to unnderstand pointer, double pointer and triple pointer
-
+/*******************************************************************************
+C program to unnderstand pointer, double pointer and triple pointer
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
