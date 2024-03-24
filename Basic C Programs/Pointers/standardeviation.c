@@ -1,5 +1,6 @@
-//C program which return sum, average and standard deviation through pointers
-
+/*******************************************************************************
+C program which return sum, average and standard deviation through pointers
+*******************************************************************************/
 #include<stdio.h>
 #include<math.h>
 
