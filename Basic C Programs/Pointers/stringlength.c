@@ -1,5 +1,6 @@
-//C program to find the string length using pointers
-
+/*******************************************************************************
+C program to find the string length using pointers
+*******************************************************************************/
 #include<stdio.h>
 int length(const char *str)
 {
