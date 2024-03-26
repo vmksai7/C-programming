@@ -1,5 +1,6 @@
-//C program to swap 2 variables using pointers
-
+/*******************************************************************************
+C program to swap 2 variables using pointers
+*******************************************************************************/
 #include<stdio.h>
 int swap(int *a, int *b)
 {
