@@ -1,5 +1,6 @@
-//C program to print the random number from range 50 to 100
-
+/*******************************************************************************
+C program to print the random number from range 50 to 100
+*******************************************************************************/
 Method 1:
 
 #include<stdio.h>
