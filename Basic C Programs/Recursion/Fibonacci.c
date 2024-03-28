@@ -1,5 +1,6 @@
-//C program to generate fibonacci series using recustion
-
+/*******************************************************************************
+C program to generate fibonacci series using recustion
+*******************************************************************************/
 #include<Stdio.h>
 int fibonacci(int n)
 {
