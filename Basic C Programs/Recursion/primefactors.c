@@ -1,5 +1,6 @@
-//C program to find the prime factors of a given number
-
+/*******************************************************************************
+C program to find the prime factors of a given number
+*******************************************************************************/
 #include<stdio.h>
 void factorize(int ,int);
 int main()
