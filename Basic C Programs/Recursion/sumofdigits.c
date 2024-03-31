@@ -1,5 +1,6 @@
-//C program to sum of digits given by the user by using Recursion
-
+/*******************************************************************************
+C program to sum of digits given by the user by using Recursion
+*******************************************************************************/
 #include<stdio.h>
 int rsum(int);
 int main()
