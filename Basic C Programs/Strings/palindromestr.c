@@ -1,5 +1,6 @@
-//C program to check given string is palindrome or not without using functions
-
+/*******************************************************************************
+C program to check given string is palindrome or not without using functions
+*******************************************************************************/
 #include <stdio.h>
 #include <string.h>
 
