@@ -1,5 +1,6 @@
-//String Concatenation by using Pointers in C
-
+/*******************************************************************************
+C program to concatenate two strings using pointers
+*******************************************************************************/
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
