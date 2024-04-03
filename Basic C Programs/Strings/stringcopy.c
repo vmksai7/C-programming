@@ -1,5 +1,6 @@
-//C program to copy one string to another string without using strcpy
-
+/*******************************************************************************
+C program to copy one string to another string without using strcpy
+*******************************************************************************/
 #include <stdio.h>
 
 int main() {
