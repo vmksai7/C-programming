@@ -1,5 +1,6 @@
-//C program to convert a string to an integer
-
+/*******************************************************************************
+C program to convert a string to an integer
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
