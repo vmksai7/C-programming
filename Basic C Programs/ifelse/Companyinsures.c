@@ -1,8 +1,9 @@
-//C program for a company insures its drivers in the following cases:
-//If the driver is married
-//If the driver is unmarried, male and above 30 years of age
-//If the driver is unmarried, female and above 25 of age
-
+/*******************************************************************************
+C program for a company insures its drivers in the following cases:
+If the driver is married
+If the driver is unmarried, male and above 30 years of age
+If the driver is unmarried, female and above 25 of age
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
