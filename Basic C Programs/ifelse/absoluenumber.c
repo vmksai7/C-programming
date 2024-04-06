@@ -1,5 +1,6 @@
-//C program to print the absolue number from a given number
-
+/*******************************************************************************
+C program to print the absolue number from a given number
+*******************************************************************************/
 #include <stdio.h>
 
 int main() {
