@@ -1,7 +1,8 @@
-//C program to calculate total expenses for while purchasing certain items
-//a discount of 10% is offered is the quantity purchases is more than 1000. 
-//If quantity and price per item are input through keyboard.
-
+/*******************************************************************************
+C program to calculate total expenses for while purchasing certain items
+a discount of 10% is offered is the quantity purchases is more than 1000. 
+If quantity and price per item are input through keyboard.
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
