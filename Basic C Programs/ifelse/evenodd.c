@@ -1,5 +1,6 @@
-//C program to find entered number is even or odd using if else
-
+/*******************************************************************************
+C program to find entered number is even or odd using if else
+*******************************************************************************/
 #include <stdio.h>
 
 int main() {
