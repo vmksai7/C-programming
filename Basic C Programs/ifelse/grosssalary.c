@@ -1,8 +1,10 @@
-//C program to find the gross salary of an employee
-//His basic sal is less than Rs.1500, then HRA=10% of basic sal
-//And DA=90% of basic salary. If his sal equal to or above Rs.1500,
-//then HRA=Rs.500 and DA=98% of basic sal. If employees sal is input through keyboard.
-
+/*******************************************************************************
+C program to find the gross salary of an employee
+His basic sal is less than Rs.1500, then HRA=10% of basic sal
+And DA=90% of basic salary. If his sal equal to or above Rs.1500,
+then HRA=Rs.500 and DA=98% of basic sal. If employees sal is input through 
+keyboard.
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
