@@ -1,5 +1,6 @@
-//C program to write logics on if condition
-
+/*******************************************************************************
+C program to write logics on if condition
+*******************************************************************************/
 #include<stdio.h>
 
 int main()
