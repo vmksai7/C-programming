@@ -1,5 +1,6 @@
-//C program to check given year is leap year or not using if else
-
+/*******************************************************************************
+C program to check given year is leap year or not using if else
+*******************************************************************************/
 #include <stdio.h>
 
 int main() {
