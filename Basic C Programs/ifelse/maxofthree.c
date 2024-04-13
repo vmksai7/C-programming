@@ -1,5 +1,7 @@
-//C program to take three numbers from user and displays the maximum of three numbers using if else
-
+/*******************************************************************************
+C program to take three numbers from user and displays the maximum of 
+                     three numbers using if else
+*******************************************************************************/
 #include <stdio.h>
 
 int main() {
