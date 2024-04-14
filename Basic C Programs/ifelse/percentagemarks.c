@@ -1,9 +1,11 @@
-//C program to take input of 5 subject marks of a student through keyboard and gets division as per following:
-//percentage above or equal to 60 - First Division
-//percentage between 50 and 59 - Second Division
-//percentage between 40 and 49 - Third Division
-//percentage below 40 - Fail
-
+/*******************************************************************************
+C program to take input of 5 subject marks of a student through keyboard and 
+gets division as per following:
+percentage above or equal to 60 - First Division
+percentage between 50 and 59 - Second Division
+percentage between 40 and 49 - Third Division
+percentage below 40 - Fail
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
