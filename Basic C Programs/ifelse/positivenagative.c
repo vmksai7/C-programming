@@ -1,5 +1,6 @@
-//C program to check given number is positive or negaative or zero
-
+/**********************************************************************
+C program to check given number is positive or negaative or zero
+**********************************************************************/
 #include <stdio.h>
 
 int main() {
