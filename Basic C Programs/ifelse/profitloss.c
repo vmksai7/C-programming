@@ -1,5 +1,7 @@
-//C program to calculate profit or loss by giving cost price and selling price by the user
-
+/*******************************************************************************
+C program to calculate profit or loss by giving cost price and selling 
+price by the user
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
