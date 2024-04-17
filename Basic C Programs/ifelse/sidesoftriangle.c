@@ -1,6 +1,8 @@
-//C program to input 3 sides of triangle and check the triangle is valid or not.
-//If sum of  2 sides of triangle is larger than the third side then triangle is valid
-
+/*******************************************************************************
+C program to input 3 sides of triangle and check the triangle is valid or not.
+If sum of  2 sides of triangle is larger than the third side then triangle is 
+valid
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
