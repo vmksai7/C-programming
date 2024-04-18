@@ -1,5 +1,7 @@
-//C program to take 3 members ages through keyboard and finding th yougest among three
-
+/*******************************************************************************
+C program to take 3 members ages through keyboard and finding th yougest 
+among three
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
