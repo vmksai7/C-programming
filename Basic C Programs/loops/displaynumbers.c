@@ -1,5 +1,6 @@
-//C program to display numbers from 1 to 100 using for loop
-
+/*******************************************************************************
+C program to display numbers from 1 to 100 using for loop
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
