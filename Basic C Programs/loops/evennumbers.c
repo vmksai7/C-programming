@@ -1,5 +1,6 @@
-//C program to print the all even numbers from 20 and 40 using for loop
-
+/*******************************************************************************
+C program to print the all even numbers from 20 and 40 using for loop
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
