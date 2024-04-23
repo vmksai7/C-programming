@@ -1,5 +1,6 @@
-//C program to sumof digits of a given number using for loop
-
+/*******************************************************************************
+C program to sumof digits of a given number using for loop
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
