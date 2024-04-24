@@ -1,5 +1,6 @@
-//C program to print the sum of natural numbers from 1 to 50 using for loop
-
+/*******************************************************************************
+C program to print the sum of natural numbers from 1 to 50 using for loop
+*******************************************************************************/
 #include<stdio.h>
 int main()
 {
