@@ -1,10 +1,11 @@
-/*Menu driven program in C
+/*******************************************************************************
+Menu driven program in C
 Menu:
 1. Factorial
 2. Prime
 3. Odd/Even
 4. Exit */
-
+*******************************************************************************/
 #include<stdio.h>
 #include<stdlib.h>
 int main()
