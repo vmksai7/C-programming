@@ -15,3 +15,4 @@ int main()
       printf("%d",(cp>>j)&1);
   }
 }
+
