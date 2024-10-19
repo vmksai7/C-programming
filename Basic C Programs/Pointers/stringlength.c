@@ -17,3 +17,4 @@ int main()
     int len = length(str);
     printf("Length of string is %d\n",len);
 }
+
