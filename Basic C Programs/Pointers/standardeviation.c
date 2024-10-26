@@ -22,3 +22,4 @@ void stats(int *sum, int *avg, double *stdev)
   *avg=*sum/5;
   *stdev=sqrt((pow((n1-*avg),2.0)+pow((n2-*avg),2.0)+pow((n3-*avg),2.0)+pow((n4-*avg),2.0)+pow((n5-*avg),2.0))/4);
 }
+
