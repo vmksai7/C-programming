@@ -24,3 +24,4 @@ int main()
     }
     printf("Words in a given string is %d\n",word+1);
 }
+
