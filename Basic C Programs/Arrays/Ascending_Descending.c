@@ -53,7 +53,7 @@ int main()
             break;
         }
     }
-    
+
     printf("Array in descending order:\n");
     for(i=0;i<size;i++)
     {
