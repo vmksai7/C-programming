@@ -53,4 +53,3 @@ int main()
   printf("Doouble: %E to %E\n",DBL_MIN,DBL_MAX);
   printf("Long Double: %LE to %LE\n",LDBL_MIN,LDBL_MAX);
 }
-  
